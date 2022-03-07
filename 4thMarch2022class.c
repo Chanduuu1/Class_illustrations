@@ -55,3 +55,4 @@ int main(){
     printf("%lld", sum);
     return 0;
 }
+// fibonacii updated in a new code check it..
